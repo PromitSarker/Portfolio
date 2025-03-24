@@ -16,8 +16,8 @@
   {
     "title": "BasicSudoku",
     "imageSrc": "projects/project.png",
-    "description": "This is a basic Sudoku Game, built with Python and PyGame.",
-    "skills": ["Python", "Pygame", "Game"],
+    "description": "A basic Sudoku game in Python and PyGame.Uses Python for game logic and PyGame for the graphical interface. It lets players play while ensuring Sudoku rules are followed.",
+    "skills": ["Python", "Pygame"],
     "source": "https://github.com/PromitSarker/BasicSudoku"
   }
 ]
