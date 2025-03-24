@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Raim Labratories",
+    "startDate": "July, 2023",
+    "endDate": "July, 2024",
+    "experiences": ["Worked on Developing Customized Database System", "Provided Software Solution to manage Stocks"],
+    "imageSrc": "history/work.png"
+  },
+  {
+    "role": "Research Assistant",
+    "organisation": "NSU HCI DIAL ",
+    "startDate": "Feb, 2023",
+    "endDate": "June, 2023",
+    "experiences": ["Worked as a Research Assistant", "Contributed on a project aimed to harness tech advancements for better health of the people in poverty."],
+    "imageSrc": "history/work.png"
+  },
+  {
+    "role": "Editorial Member",
+    "organisation": "IEEE NSU Student Brunch",
+    "startDate": "Jan, 2020",
+    "endDate": "Sep, 2022",
+    "experiences": [
+      "Worked on Ensuring Quality Contents",
+      "Conducted peer review and worked on Promotions"
+    ],
+    "imageSrc": "history/work.png"
+  }
+]

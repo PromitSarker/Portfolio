@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Quantum for Mars",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to assist Mars rover to identify Mars Terrain, with a Quantum approach.",
+    "skills": [
+      "Quantum Machine Learning",
+      "Qiskit",
+      "QResnet"
+    ],
+    "source": "https://github.com/PromitSarker/Quantum_for-mars"
+  },
+  {
+    "title": "Brain Tumor Detection",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to make the detection of brain tumor much faster and efficient.",
+    "skills": ["Python", "Machine Learning", "CNN"],
+    "source": "https://github.com/PromitSarker/Brain_Tumor_Detection_299"
+  },
+  {
+    "title": "BasicSudoku",
+    "imageSrc": "projects/project.png",
+    "description": "This is a basic Sudoku Game, built with Python and PyGame.",
+    "skills": ["Python", "Pygame","Game"],
+    "source": "https://github.com/PromitSarker/BasicSudoku"
+  }
+]
